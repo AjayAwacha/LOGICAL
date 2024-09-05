@@ -1,6 +1,6 @@
 // Problem Statment
 // find first pair in sorted array which sum is zero
-// ex. [-3, -2, -1, 0, 1, 2, 3]
+// ex. [-3, -2, -1, 0, 1, 2, 3, 5]
 
 // My Version
 function sumZero(arr) {
